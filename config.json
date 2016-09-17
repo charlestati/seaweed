@@ -1,0 +1,5 @@
+{
+  "outputDir": "dist/",
+  "autoFix": true,
+  "autoPrefix": "last 2 versions"
+}
