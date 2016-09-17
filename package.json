@@ -18,9 +18,6 @@
     "url": "https://github.com/charlestati/seaweed/issues"
   },
   "homepage": "https://github.com/charlestati/seaweed#readme",
-  "dependencies": {
-    "coolstrap": "^1.0.1"
-  },
   "devDependencies": {
     "babel-preset-latest": "^6.14.0",
     "browser-sync": "^2.16.0",
