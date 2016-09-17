@@ -22,12 +22,6 @@ By default, **Seaweed** builds your project in `dist/`
 
 You can type `npm run serve` to launch Browser Sync and automatically reload the window when a file is modified
 
-## Usage with GitHub Pages
-
-Edit the `config.json` file to change the `outputDir` value to `./`
-
-**If you do that, `gulp clean` will try to delete the current working directory!**
-
 ## License
 
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
